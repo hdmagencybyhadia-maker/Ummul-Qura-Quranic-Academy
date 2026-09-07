@@ -1,0 +1,6 @@
+{
+  "name": "Ummul Qura Quranic Academy",
+  "description": "Online registration portal for Ummul Qura Quranic Academy courses including Nazra Quran, Tajweed, Translation, and Tafseer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
